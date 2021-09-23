@@ -1,3 +1,5 @@
+# By Fossegutten, modified by Elvisish
+
 extends KinematicBody
 
 
